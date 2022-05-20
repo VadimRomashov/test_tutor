@@ -7,6 +7,7 @@ namespace test_tutor
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Vadim!");
+            Console.WriteLine("go home");
         }
     }
 }
